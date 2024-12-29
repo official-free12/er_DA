@@ -1,0 +1,6 @@
+# 2024二开版v免签个人收款易支付源码对接微信赞赏码 付费进群支付接口 app监控带教程
+
+后台：http://example.com/houtai<br>测试地址：example.com/user/example.com<br>源码简介 2024二开版v免签个人收款易支付源码对接微信赞赏码 付费进群支付接口 app监控带教程，可对接微信付费进群，运用广泛。<br>赞赏码收款的好处是客户可以直接在微信中长按付款，省去截图付款的麻烦，而且赞赏码收款不用担心异地收款过多而被冻结账号，采用APP监控收款通知，不用担心云端异地和掉线等不稳定因素，真正做到稳定，是个人微信目前最稳定的收款方式之一。<br>运行环境 example.com.5以上 example.com.3 example.com<br>1、网站目录-&gt;运行目录 设置为public并保存<br>2、伪静态 设置为thinkphp并保存<br>3、打开网站目录 config/example.com ，设置好您的mysql账号密码<br>4、导入数据库文件（位于根目录）example.com<br>5、至此网站搭建完毕，请访问/houtai后自行修改配置信息！默认后台账号admin和密码123456<br>6、后台登录入口在route/example.com，找到’houtai’修改即可<br>7、在后台里设置首页跳转地址，不设置跳转到默认地址<br>8、配置邮箱信息和支付宝商户号<br>9、使用免挂或者软件监控，使用免挂需要配置回调监控<br>10、建议把当前站点的网站防火墙关了，以防被拦截<br>使用接口<br>此程序二开后实质接口类似于易支付，所以对接易支付的话选彩虹易支付<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/LHEHy" style="color: red;">https://mega-file.org/LHEHy</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
